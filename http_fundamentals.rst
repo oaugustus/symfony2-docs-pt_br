@@ -48,7 +48,7 @@ uma entrada específica de um blog:
 
     DELETE /blog/15 HTTP/1.1
 	
-..  ::
+..
 
     Há realmente nove métodos HTTP definidos pela especificação HTTP, mas muitos deles não 
 	são largamente usados ou suportados. Na realidade, muitos naveadores modernos não suportam 
