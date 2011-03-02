@@ -50,7 +50,8 @@ uma entrada específica de um blog:
 	
 ..
 
-    Há realmente nove métodos HTTP definidos pela especificação HTTP, mas muitos deles não 
+    Nota:
+	Há realmente nove métodos HTTP definidos pela especificação HTTP, mas muitos deles não 
 	são largamente usados ou suportados. Na realidade, muitos naveadores modernos não suportam 
 	os métodos PUT e DELETE. Um cabeçalho adicional é comummente suportado é o método HEAD, que 
 	diz que a resposta deve ser idêntica à de uma requisição GET, mas sem o corpo da resposta, 
