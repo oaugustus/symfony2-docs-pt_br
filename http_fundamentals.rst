@@ -24,7 +24,7 @@ requisições no mesmo formato básico. Por exemplo:
     GET /index.html HTTP/1.1
     Host: www.example.com
     Accept: text/html
-	User-Agent: Mozilla/5.0 (Linux; X11)
+User-Agent: Mozilla/5.0 (Linux; X11)
 	
 A primeira linha da requisição HTTP é a mais importante delas (e como é de fato, a única
 obrigatória delas). Ela contém duas coisas: a URI e o método HTTP. A URI (URL se combinada 
@@ -45,6 +45,7 @@ Com isto em mente, nós podemos imaginar o que uma requisição HTTP pode fazer par
 uma entrada específica de um blog:
 
 ::
+
     DELETE /blog/15 HTTP/1.1
 	
 ..
